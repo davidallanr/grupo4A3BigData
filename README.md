@@ -30,7 +30,12 @@ Temos como intuito neste projeto acadêmico, realizar Análise Exploratória dos
  A fonte de dados utilizada está disponível no Kaggle (https://www.kaggle.com/datasets/sujaykapadnis/school-shooting-data) e no Github da CNNlabs (https://github.com/cnnlabs/cnn-school-shooting-data). Os dados foram compilados pela prória CNNlabs de diversas fontes abertas e foram certificados pelo "MIT license".
 
 ## 1.3. Escopo do Projeto
- estabeleça o escopo do projeto de análise de dados, delimitando quais aspectos do problema ou questão de pesquisa serão abordados na análise e quais foram deixados de lado.
+O escopo deste projeto se limita às análises dos seguintes pontos:
+* A identificação das principais características dos eventos, tais como localização, número de vítimas, número de feridos.
+* Identificação de padrões e tendências como a localidade e região da cidade onde ocorreram os eventos.
+
+A análise de fatores de causa dos eventos, tipo de armamento, políticas ligadas ao porte de armas, histórico de saúde mental, histórico de vida dos atiradores não farão parte do escopo deste projeto.
+
 
 ## 1.4. Método de Análise
  Através do dataset, será realizada uma análise exploratória de dados através do Power BI.
