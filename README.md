@@ -20,20 +20,20 @@ Sabemos que os Estados Unidos é o país com o maior arsenal de armas de fogo em
 ## 1.1. Objetivos
 Temos como intuito neste projeto acadêmico, realizar Análise Exploratória dos Dados do dataset [School Shooting Data](https://github.com/cnnlabs/cnn-school-shooting-data) a fim de transmitir a causa motivadora de tais atentados. Serão tratadas e respondidas os seguintes questionamentos neste projeto:
 
- * [1.Existe algum padrão ou alguma minoria mais afetada?](linkar)
- * [2.](linkar)
- * [3.](linkar)
- * [4.](linkar)
+ * [1.Existe algum padrão ou minoria racial mais afetada?](linkar)
+ * [2.Quais os Estados e Cidades mais perigosos de acordo com número de mortes, vítimas ou quantidade de atentados?](linkar)
+ * [3.Os atentados ocorrem em maior quantidade no subúrbio ou nas áreas urbanas?](linkar)
+ * [4.Em qual ano ocorreram mais atentados e se o número está aumentando ou não?](linkar)
  * [5.](linkar)
 
  ## 1.2. Fonte de Dados
- forneça informações sobre os conjuntos de dados utilizados na análise e qual origem deles.
+ A fonte de dados utilizada está disponível no Kaggle (https://www.kaggle.com/datasets/sujaykapadnis/school-shooting-data) e no Github da CNNlabs (https://github.com/cnnlabs/cnn-school-shooting-data). Os dados foram compilados pela prória CNNlabs de diversas fontes abertas e foram certificados pelo "MIT license".
 
 ## 1.3. Escopo do Projeto
  estabeleça o escopo do projeto de análise de dados, delimitando quais aspectos do problema ou questão de pesquisa serão abordados na análise e quais foram deixados de lado.
 
 ## 1.4. Método de Análise
- forneça uma breve descrição das técnicas e métodos de análise de dados utilizados, no caso a análise exploratória de dados, ou por exemplo: modelagem estatística ou aprendizado de máquina; caso queira incrementar seu trabalho.
+ Através do dataset, será realizada uma análise exploratória de dados através do Power BI.
 
 ## 1.5. Contribuições 
 destaque as principais contribuições da análise de dados realizada, ou seja, quais os principais insights e conclusões obtidas a partir da análise e como eles podem ser relevantes para a solução do problema ou questão de pesquisa. Observação: sobre as conclusões neste parágrafo deverá ser incluído apenas na versão final do seu relatório de pesquisa.
