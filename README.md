@@ -46,7 +46,7 @@ destaque as principais contribuições da análise de dados realizada, ou seja, 
 Deve-se informar o leitor sobre a estrutura do relatório e o que será abordado em cada seção.
 
 # Metodologia
-    ![Atentados nas escolas norte-americanas](https://github.com/davidallanr/grupo4A3BigData/assets/135774372/90bffc50-d5cd-42a0-a815-975ff4a04540)
+![Atentados nas escolas norte-americanas](https://github.com/davidallanr/grupo4A3BigData/assets/135774372/38832cb7-ffa3-48fe-86f8-e3ea25cef841)
    
     Elabore um Dicionário de Dados com todos os dados que serão utilizados em seu projeto. Um Dicionário de Dados é um documento que descreve o conteúdo e o significado dos dados em um conjunto de dados. Ele é essencial para garantir a compreensão correta dos dados e sua utilização de forma adequada e consistente. Geralmente é apresentado em forma tabular com informações sobre os seguintes aspectos dos dados:
     
