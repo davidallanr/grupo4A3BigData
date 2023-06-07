@@ -21,10 +21,9 @@ Sabemos que os Estados Unidos é o país com o maior arsenal de armas de fogo em
 Temos como intuito neste projeto acadêmico, realizar Análise Exploratória dos Dados do dataset [School Shooting Data](https://github.com/cnnlabs/cnn-school-shooting-data) a fim de transmitir a causa motivadora de tais atentados. Serão tratadas e respondidas os seguintes questionamentos neste projeto:
 
  * [1.Existe algum padrão ou minoria racial mais afetada?](linkar)
- * [2.Quais os Estados e Cidades mais perigosos de acordo com número de mortes, vítimas ou quantidade de atentados?](linkar)
+ * [2.Quais 3 os Estados e Cidades mais perigosos de acordo com número de mortes, vítimas ou quantidade de atentados?](linkar)
  * [3.Os atentados ocorrem em maior quantidade no subúrbio ou nas áreas urbanas?](linkar)
  * [4.Em qual ano ocorreram mais atentados e se o número está aumentando ou não?](linkar)
- * [5.](linkar)
 
  ## 1.2. Fonte de Dados
  A fonte de dados utilizada está disponível no Kaggle (https://www.kaggle.com/datasets/sujaykapadnis/school-shooting-data) e no Github da CNNlabs (https://github.com/cnnlabs/cnn-school-shooting-data). Os dados foram compilados pela prória CNNlabs de diversas fontes abertas e foram certificados pelo "MIT license".
@@ -47,7 +46,7 @@ destaque as principais contribuições da análise de dados realizada, ou seja, 
 Deve-se informar o leitor sobre a estrutura do relatório e o que será abordado em cada seção.
 
 # Metodologia
-    Apresente nesta seção todo o processo de preparação, organização e limpeza de dados feito nos conjuntos de dados que você coletou. Nesta seção você pode criar um fluxograma de todas as etapas realizadas, explicando cada uma das tarefas em uma lista de tópicos.
+    Apresente nesta seção todo o processo de preparação, organização e limpeza de dados feito nos conjuntos de dados que você coletou. Nesta seção você pode criar um fluxograma de todas as etapas realizadas, explicando cada uma das tarefas em uma lista de tópicos. Selecionar o arquivo csv (Comma-Separated Values) e subir no Power BI > Utilizando o Power Query, transformar a primeira linha em cabeçalho > selecionar os valores "killed", "injuried", "victims" e transforme-os em números inteiros. Os demais valores não necessitam de transformação > A partir disto é possível explorar os dados com diversos tipos de gráficos como gráficos de coluna, gráficos de pizza, gráficos de linha, tabelas dinâmicas, cartões e filtros.
    
     Elabore um Dicionário de Dados com todos os dados que serão utilizados em seu projeto. Um Dicionário de Dados é um documento que descreve o conteúdo e o significado dos dados em um conjunto de dados. Ele é essencial para garantir a compreensão correta dos dados e sua utilização de forma adequada e consistente. Geralmente é apresentado em forma tabular com informações sobre os seguintes aspectos dos dados:
     
