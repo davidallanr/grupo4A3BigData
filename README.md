@@ -46,7 +46,7 @@ destaque as principais contribuições da análise de dados realizada, ou seja, 
 Deve-se informar o leitor sobre a estrutura do relatório e o que será abordado em cada seção.
 
 # Metodologia
-    Apresente nesta seção todo o processo de preparação, organização e limpeza de dados feito nos conjuntos de dados que você coletou. Nesta seção você pode criar um fluxograma de todas as etapas realizadas, explicando cada uma das tarefas em uma lista de tópicos. Selecionar o arquivo csv (Comma-Separated Values) e subir no Power BI > Utilizando o Power Query, transformar a primeira linha em cabeçalho > selecionar os valores "killed", "injuried", "victims" e transforme-os em números inteiros. Os demais valores não necessitam de transformação > A partir disto é possível explorar os dados com diversos tipos de gráficos como gráficos de coluna, gráficos de pizza, gráficos de linha, tabelas dinâmicas, cartões e filtros.
+    ![Atentados nas escolas norte-americanas](https://github.com/davidallanr/grupo4A3BigData/assets/135774372/90bffc50-d5cd-42a0-a815-975ff4a04540)
    
     Elabore um Dicionário de Dados com todos os dados que serão utilizados em seu projeto. Um Dicionário de Dados é um documento que descreve o conteúdo e o significado dos dados em um conjunto de dados. Ele é essencial para garantir a compreensão correta dos dados e sua utilização de forma adequada e consistente. Geralmente é apresentado em forma tabular com informações sobre os seguintes aspectos dos dados:
     
@@ -67,7 +67,7 @@ Deve-se informar o leitor sobre a estrutura do relatório e o que será abordado
     
     Ao criar um dicionário de dados, é importante garantir que todas as informações relevantes estejam incluídas e que ele seja atualizado regularmente à medida que os dados mudam ou evoluem. Ele é um recurso valioso para garantir a consistência e a precisão dos dados, além de facilitar o entendimento dos dados por outros usuários que possam interagir com o conjunto de dados.
 
-![Atentados nas escolas norte-americanas](https://github.com/davidallanr/grupo4A3BigData/assets/135774372/90bffc50-d5cd-42a0-a815-975ff4a04540)
+
 
 
 
