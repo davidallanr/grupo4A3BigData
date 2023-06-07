@@ -67,6 +67,8 @@ Deve-se informar o leitor sobre a estrutura do relatório e o que será abordado
     
     Ao criar um dicionário de dados, é importante garantir que todas as informações relevantes estejam incluídas e que ele seja atualizado regularmente à medida que os dados mudam ou evoluem. Ele é um recurso valioso para garantir a consistência e a precisão dos dados, além de facilitar o entendimento dos dados por outros usuários que possam interagir com o conjunto de dados.
 
+![Atentados nas escolas norte-americanas](https://github.com/davidallanr/grupo4A3BigData/assets/135774372/90bffc50-d5cd-42a0-a815-975ff4a04540)
+
 
 
 
