@@ -20,10 +20,10 @@ Sabemos que os Estados Unidos é o país com o maior arsenal de armas de fogo em
 ## 1.1. Objetivos
 Temos como intuito neste projeto acadêmico, realizar Análise Exploratória dos Dados do dataset [School Shooting Data](https://github.com/cnnlabs/cnn-school-shooting-data) a fim de transmitir a causa motivadora de tais atentados. Serão tratadas e respondidas os seguintes questionamentos neste projeto:
 
- * 1.Existe algum padrão ou minoria racial mais afetada?
- * 2.Quais 3 os Estados e Cidades mais perigosos de acordo com número de mortes, vítimas ou quantidade de atentados?
- * 3.Os atentados ocorrem em maior quantidade no subúrbio ou nas áreas urbanas?
- * 4.Em qual ano ocorreram mais atentados e se o número está aumentando ou não?
+ * 1. Existe algum padrão ou minoria racial mais afetada?
+ * 2. Quais 3 os Estados e Cidades mais perigosos de acordo com número de mortes, vítimas ou quantidade de atentados?
+ * 3. Os atentados ocorrem em maior quantidade no subúrbio ou nas áreas urbanas?
+ * 4. Em qual ano ocorreram mais atentados e se o número está aumentando ou não?
 
  ## 1.2. Fonte de Dados
  A fonte de dados utilizada está disponível no Kaggle (https://www.kaggle.com/datasets/sujaykapadnis/school-shooting-data) e no Github da CNNlabs (https://github.com/cnnlabs/cnn-school-shooting-data). Os dados foram compilados pela prória CNNlabs de diversas fontes abertas e foram certificados pelo "MIT license".
