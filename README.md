@@ -43,7 +43,13 @@ A análise de fatores de causa dos eventos, tipo de armamento, políticas ligada
 destaque as principais contribuições da análise de dados realizada, ou seja, quais os principais insights e conclusões obtidas a partir da análise e como eles podem ser relevantes para a solução do problema ou questão de pesquisa. Observação: sobre as conclusões neste parágrafo deverá ser incluído apenas na versão final do seu relatório de pesquisa.
 
 ## 1.6. Organização do Relatório
-Deve-se informar o leitor sobre a estrutura do relatório e o que será abordado em cada seção.
+O relatório final da análise dos dados está dividido da seguinte forma:
+1. Introdução;
+2. Objetivos;
+3. Metodologia;
+4. Análise e Consolidação;
+5. Conclusão;
+6. Referências.
 
 # Metodologia
 ![Atentados nas escolas norte-americanas](https://github.com/davidallanr/grupo4A3BigData/assets/135774372/38832cb7-ffa3-48fe-86f8-e3ea25cef841)
