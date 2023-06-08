@@ -48,24 +48,27 @@ Deve-se informar o leitor sobre a estrutura do relatório e o que será abordado
 # Metodologia
 ![Atentados nas escolas norte-americanas](https://github.com/davidallanr/grupo4A3BigData/assets/135774372/38832cb7-ffa3-48fe-86f8-e3ea25cef841)
    
-    Elabore um Dicionário de Dados com todos os dados que serão utilizados em seu projeto. Um Dicionário de Dados é um documento que descreve o conteúdo e o significado dos dados em um conjunto de dados. Ele é essencial para garantir a compreensão correta dos dados e sua utilização de forma adequada e consistente. Geralmente é apresentado em forma tabular com informações sobre os seguintes aspectos dos dados:
-    
-    Nome do campo: o nome do campo ou variável em questão.
-    
-    Tipo de dados: o tipo de dados armazenados no campo, como texto, número, data, entre outros.
-    
-    Tamanho do campo: o número de caracteres ou bytes do campo.
-    
-    Descrição do campo: uma descrição do que o campo representa, sua função e seu significado.
-    
-    Formato do campo: a forma como os dados são armazenados no campo, como formato de data ou formato de hora.
-   
-    Restrições do campo: quaisquer restrições ou limitações aplicáveis ao campo, como restrições de valor ou validação de dados.
-    
-    Fonte do campo: a origem do campo, como o sistema ou processo que o gerou.
-    Relações com outros campos: informações sobre como o campo se relaciona com outros campos no conjunto de dados.
-    
-    Ao criar um dicionário de dados, é importante garantir que todas as informações relevantes estejam incluídas e que ele seja atualizado regularmente à medida que os dados mudam ou evoluem. Ele é um recurso valioso para garantir a consistência e a precisão dos dados, além de facilitar o entendimento dos dados por outros usuários que possam interagir com o conjunto de dados.
++------------------------------------------------------------------------+
+|                            Dicionário de dados                         |
++-----------------+-----------------+--------------------------+---------+
+| Nome do campo   | Tipo de dados   | Descrição do campo       | Fonte   |
++-----------------+-----------------+--------------------------+---------+
+| year            | text            | Ano da ocorrência        | CNN Labs|
++-----------------+-----------------+--------------------------+---------+
+| city            | text            | Cidade da ocorrência     | CNN Labs|
++-----------------+-----------------+--------------------------+---------+
+| state           | text            | Estado da ocorrência     | CNN Labs|
++-----------------+-----------------+--------------------------+---------+
+| urbanrural      | text            | Se a ocorrência se passa | CNN Labs|
+|                 |                 | em área urbana, rural    |         |
+|                 |                 | ou subúrbio              |         |
++-----------------+-----------------+--------------------------+---------+
+| killed          | whole number    | Quantidade de mortos     | CNN Labs|
++-----------------+-----------------+--------------------------+---------+
+| injuried        | whole number    | Quantidade de feridas    | CNN Labs|
++-----------------+-----------------+--------------------------+---------+
+| victims         | whole number    | Quantidade de vítimas    | CNN Labs|
++-----------------+-----------------+--------------------------+---------+
 
 
 
