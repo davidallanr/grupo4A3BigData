@@ -35,14 +35,10 @@ O escopo deste projeto se limita às análises dos seguintes pontos:
 
 A análise de fatores de causa dos eventos, tipo de armamento, políticas ligadas ao porte de armas, histórico de saúde mental, histórico de vida dos atiradores não farão parte do escopo deste projeto.
 
-
 ## 1.4. Método de Análise
  Através do dataset, será realizada uma análise exploratória de dados através do Power BI.
 
-## 1.5. Contribuições 
-destaque as principais contribuições da análise de dados realizada, ou seja, quais os principais insights e conclusões obtidas a partir da análise e como eles podem ser relevantes para a solução do problema ou questão de pesquisa. Observação: sobre as conclusões neste parágrafo deverá ser incluído apenas na versão final do seu relatório de pesquisa.
-
-## 1.6. Organização do Relatório
+## 1.5. Organização do Relatório
 O relatório final da análise dos dados está dividido da seguinte forma:
 1. Introdução;
 2. Objetivos;
