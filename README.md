@@ -48,27 +48,27 @@ Deve-se informar o leitor sobre a estrutura do relatório e o que será abordado
 # Metodologia
 ![Atentados nas escolas norte-americanas](https://github.com/davidallanr/grupo4A3BigData/assets/135774372/38832cb7-ffa3-48fe-86f8-e3ea25cef841)
    
-+------------------------------------------------------------------------+
-|                            Dicionário de dados                         |
-+-----------------+-----------------+--------------------------+---------+
-| Nome do campo   | Tipo de dados   | Descrição do campo       | Fonte   |
-+-----------------+-----------------+--------------------------+---------+
-| year            | text            | Ano da ocorrência        | CNN Labs|
-+-----------------+-----------------+--------------------------+---------+
-| city            | text            | Cidade da ocorrência     | CNN Labs|
-+-----------------+-----------------+--------------------------+---------+
-| state           | text            | Estado da ocorrência     | CNN Labs|
-+-----------------+-----------------+--------------------------+---------+
-| urbanrural      | text            | Se a ocorrência se passa | CNN Labs|
-|                 |                 | em área urbana, rural    |         |
-|                 |                 | ou subúrbio              |         |
-+-----------------+-----------------+--------------------------+---------+
-| killed          | whole number    | Quantidade de mortos     | CNN Labs|
-+-----------------+-----------------+--------------------------+---------+
-| injuried        | whole number    | Quantidade de feridas    | CNN Labs|
-+-----------------+-----------------+--------------------------+---------+
-| victims         | whole number    | Quantidade de vítimas    | CNN Labs|
-+-----------------+-----------------+--------------------------+---------+
+    +------------------------------------------------------------------------+
+    |                            Dicionário de dados                         |
+    +-----------------+-----------------+--------------------------+---------+
+    | Nome do campo   | Tipo de dados   | Descrição do campo       | Fonte   |
+    +-----------------+-----------------+--------------------------+---------+
+    | year            | text            | Ano da ocorrência        | CNN Labs|
+    +-----------------+-----------------+--------------------------+---------+
+    | city            | text            | Cidade da ocorrência     | CNN Labs|
+    +-----------------+-----------------+--------------------------+---------+
+    | state           | text            | Estado da ocorrência     | CNN Labs|
+    +-----------------+-----------------+--------------------------+---------+
+    | urbanrural      | text            | Se a ocorrência se passa | CNN Labs|
+    |                 |                 | em área urbana, rural    |         |
+    |                 |                 | ou subúrbio              |         |
+    +-----------------+-----------------+--------------------------+---------+
+    | killed          | whole number    | Quantidade de mortos     | CNN Labs|
+    +-----------------+-----------------+--------------------------+---------+
+    | injuried        | whole number    | Quantidade de feridas    | CNN Labs|
+    +-----------------+-----------------+--------------------------+---------+
+    | victims         | whole number    | Quantidade de vítimas    | CNN Labs|
+    +-----------------+-----------------+--------------------------+---------+
 
 
 
